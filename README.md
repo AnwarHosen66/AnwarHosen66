@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD.ANWAR HOSEN</h1>
-<h3 align="center">A passionate Android app developer from Bangladesh</h3>
+<h3 align="center">A passionate Android app developer from Bangladesh.</h3>
 <div 
   <h4 align="left">FOLLOW ME ON 😘 →</h4><a href="https://www.facebook.com/Anwarhosen66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/Anwarhosen66" height="20" width="30" /></a>
   <div/><br/>
